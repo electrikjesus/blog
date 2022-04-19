@@ -1,8 +1,8 @@
 ---
 layout: post
 title: A State Of Bliss
-date: 2022-04-03 13:23:20 +0300
-description: I wanted to create a place to start
+date: 2022-04-19 16:20:00 +0500
+description: A big change for Bliss
 img: AStateOfBliss.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [state-of-bliss, development, opportunity]
@@ -17,7 +17,7 @@ The first few years of working with Team Bliss was a blast, with many successes 
 
 # Accomplishments within the team: 
 
-I initially started off on the team learning as much as I could, and eventually started the BlissRoms-x86 project (Bliss x86 for short). I based it off what I learned by picking through the Android-x86 projects source commits. While maintaining Bliss x86, I also joined the [Android-x86](https://android-x86.org) team, and we all started working together, but still keeping projects separate, while cross promoting each other's work, and helping in each other's community. 
+I initially started off on the team learning as much as I could, and eventually started the BlissRoms-x86 project (Bliss x86 for short). I based it off what I learned by picking through the Android-x86 projects source commits. While maintaining Bliss x86, I also joined the [Android-x86](https://www.android-x86.org) team, and we all started working together, but still keeping projects separate, while cross promoting each other's work, and helping in each other's community. 
 
 Over the following years, we offered the active members of Android-x86 project a space on our Slack server, access to Android build servers, and together we grew, attributing our work to Android-Generic Project to make things easier to work with for the community, and the patches refined from there, back into Android-x86 project when ready. 
 
