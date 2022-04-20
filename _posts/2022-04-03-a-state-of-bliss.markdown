@@ -35,7 +35,7 @@ The only downside is that I would have to give up code contributions to Bliss OS
 
 What does that mean for BlissLabs and the projects? Well, you can expect the next few months (or longer), to be quite the transition phase. We are looking for new volunteers who would like to help in the development of all of these projects, and more. 
 
-With me leaving the coding side of these projects, it is making room for the great minds of @jackeagle, @hmtheboy154, @utzcoz, @erfanoabdi, and others to take over. I will focus on my leadership skills and hopefully fine tune a future vision of the Android on PC’s that we’ve all loved working on so far. 
+With me leaving the coding side of these projects, it is making room for the great minds of @jackeagle, @hmtheboy154, @axonasif, @utzcoz, @erfanoabdi, and others to take over. I will focus on my leadership skills and hopefully fine tune a future vision of the Android on PC’s that we’ve all loved working on so far. 
 
 Don’t worry about BlissLabs, or the future here. The universe has a way of working things out for those that stay true to their dreams, and I know I haven’t given up on mine yet. :) 
 
