@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A State Of Bliss
+title: A Return To Bliss
 date: 2023-02-24 16:20:00 +0500
 description: Returning to my Blissful roots
 img: AStateOfBliss.png # Add image post (optional)
