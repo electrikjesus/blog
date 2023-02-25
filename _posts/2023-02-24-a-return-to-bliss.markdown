@@ -11,7 +11,7 @@ tags: [state-of-bliss, development, opportunity]
 
 It's been a minute... but it's been a very valuable minute to say the least. So what has been going on? Let me fill you in. 
 
-Last we checked-in, I was heading off to work for Esper, doing what I love to do. I got a chance to learn what they were using as a base for their foundation project, and I got the chance to help them add support and fix a multitude of issues. I even got the chance to learn how businesses have been working with Android and AOSP. Overall, before becoming part of their recent round of layoffs in January, I felt I had a solid impact on Esper's future, and hope that some of the plans laid out together allow them a successful future in the market. 
+Last we checked-in, I was heading off to work for Esper, doing what I love to do. I got a chance to learn more about their projects, help them expand hardware support and fix a few issues. I even got the chance to learn how businesses have been working with Android and AOSP. Overall, before becoming part of their recent round of layoffs in January, I felt I had a solid impact on Esper's future, and hope that some of the plans laid out together allow them a successful future in the market. 
 
 # When one door closes, another one opens:
 
