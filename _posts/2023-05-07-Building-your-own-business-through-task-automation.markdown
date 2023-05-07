@@ -7,7 +7,8 @@ img: AStateOfBliss.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [state-of-bliss, development, opportunity]
 ---
-## Building your own business through task automation
+--- ## Building your own business through task automation 
+---
 
 
 ### The importance of Task Automation
