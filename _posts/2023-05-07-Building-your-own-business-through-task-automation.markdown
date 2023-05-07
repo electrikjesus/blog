@@ -5,7 +5,7 @@ date: 2023-05-07 12:32:00 +0500
 description: First part in a series where I deconstruct the process of starting a business to share lessons learned or insights
 img: AStateOfBliss.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [state-of-bliss, development, opportunity]
+tags: [startup, business, entrepreneurship, development, opportunity]
 ---
 ### The importance of Task Automation:
 
