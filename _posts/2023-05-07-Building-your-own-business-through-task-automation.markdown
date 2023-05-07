@@ -7,10 +7,6 @@ img: AStateOfBliss.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [state-of-bliss, development, opportunity]
 ---
---- ## Building your own business through task automation 
----
-
-
 ### The importance of Task Automation
 
 Task automation is the process of using software to automate simple tasks or a series of more complex tasks. This reduces the need for manual handling of such tasks, therefore improving accuracy and efficiency.  Once configured, tasks are completed automatically, allowing more time for employees to focus on  creativity and strategic workflows.
