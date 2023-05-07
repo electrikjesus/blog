@@ -3,7 +3,7 @@ layout: post
 title: Building your own business through task automation
 date: 2023-05-07 12:32:00 +0500
 description: First part in a series where I deconstruct the process of starting a business to share lessons learned or insights
-img: AStateOfBliss.png # Add image post (optional)
+img: The_Blissful_Entrepreneur.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [startup, business, entrepreneurship, development, opportunity]
 ---
