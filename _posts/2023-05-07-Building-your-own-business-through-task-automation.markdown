@@ -87,3 +87,5 @@ Here are some important tips to help  automating tasks in your business:
 * Get help if you need it. There are many resources available to help you automate tasks in your business. If you get stuck, don't hesitate to ask for help from a consultant or other expert.
 
 If you would like to check out some of the task automation I have been using in my profession, feel free to head over to Android-Generic Project ([https://android-generic.github.io](https://android-generic.github.io)). If you feel your AOSP based project could use an automation mindset to help make things easier on your engineering department, please checkout the Bliss Co-Labs ([https://blisscolabs.dev](https://blisscolabs.dev)), as that is kind of what we’re here for. 
+
+I hope you found this blog post helpful. If you have any questions, please feel free to leave a comment below. And if you know someone else who might find this information helpful, please share it with them.
