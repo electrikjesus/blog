@@ -75,7 +75,7 @@ For your company, you have the unique knowledge and details of what you or your 
 
 **Conclusion**
 
-Task automation is a powerful tool that can help businesses to improve productivity, accuracy, efficiency, and cost-effectiveness. If you're not already automating tasks in your business? What better time than today to consider the benefits and get started.
+Task automation is a powerful tool that can help businesses to improve productivity, accuracy, efficiency, and cost-effectiveness. If you're not already automating tasks in your business, then what better time than today to consider the benefits and get started?
 
 Here are some important tips to help  automating tasks in your business:
 
