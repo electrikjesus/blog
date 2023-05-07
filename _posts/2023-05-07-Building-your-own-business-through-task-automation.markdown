@@ -12,7 +12,7 @@ tags: [startup, business, entrepreneurship, development, opportunity]
 Task automation is the process of using software to automate simple tasks or a series of more complex tasks. This reduces the need for manual handling of such tasks, therefore improving accuracy and efficiency.  Once configured, tasks are completed automatically, allowing more time for employees to focus on  creativity and strategic workflows.
 
 
-##### How to Automate Tasks:
+#### How to Automate Tasks:
 
 There are many different ways to automate tasks. Some common methods include:
 
@@ -23,7 +23,7 @@ There are many different ways to automate tasks. Some common methods include:
 * Using workflow automation tools to automate processes that involve multiple steps
 
 
-##### The Benefits of Task Automation:
+#### The Benefits of Task Automation:
 
 The many benefits of task automation include:
 
@@ -35,7 +35,7 @@ The many benefits of task automation include:
 * **Reduced costs**: Task automation can help to reduce costs by eliminating the need for manual labor.
 
 
-##### How to Get Started with Task Automation:
+### How to Get Started with Task Automation:
 
 If you are interested in automating tasks in your business, there are a few things you need to do to get started:
 
@@ -48,7 +48,7 @@ If you are interested in automating tasks in your business, there are a few thin
 5. Monitor the results of your automation efforts and make adjustments as needed.
 
 
-####  How I Automate Tasks in my Development Environment:
+###  How I Automate Tasks in my Development Environment:
 
 Throughout my professional career, the companies I have founded have all stemmed from observing an existing need, and recognizing my ability to fill that need. Be it web design, application development, or software automation, my companies were also all established as partnerships. This collaboration allowed me to provide value to the client while collectively sharing responsibilities.
 
@@ -57,7 +57,7 @@ As time goes on, responsibilities can shift and the levels of efficiency and pro
 This is where I start to let my creative juices flow a bit. The more effort spent on tasks "X", "Y" or "Z", the more I am able to identify the portions of those tasks which are repetitive. At this point I am able to mitigate this repetitiveness by utilizing existing automation tools or by creating new tools from scratch for these specific tasks. This results in a very lean infrastructure for a business. This form of task automation allows me to be more creative and focus on exemplary solutions for my clients and the community, instead of solutions that can bring a quick buck.
 
 
-##### Task Automation in Development:
+#### Task Automation in Development:
 
 When it comes to task automation in development, normally the mindset required does not come naturally. Meaning not everyone can easily recognise that they have performed the same steps in a process 3 times in a row. Their focus is on the task itself, not the process in which to complete it. To find this process, you must also record or note each step taken to complete the task/s. 
 
