@@ -2,10 +2,10 @@
 layout: post
 title: Android, AOSP, and what Open-Source Licensing means for you or your company
 date: 2023-10-13 12:32:00 +0500
-description: Helpful tips and tools for users and companies to know when dealing with Android OS's open-source licensing for products
+description: Helpful tips and tools for users and companies to know when dealing with Android OSs open-source licensing for products
 img: The_Blissful_Entrepreneur.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [startup, business, ,aosp, android, entrepreneurship, development, products, TheBlissfulEntrepreneur]
+tags: [startup, business, aosp, android, entrepreneurship, development, products, TheBlissfulEntrepreneur]
 ---
 # Android, AOSP, and what Open-Source Licensing means for you or your company
 
