@@ -7,7 +7,6 @@ img: The_Blissful_Entrepreneur.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [startup, business, aosp, android, entrepreneurship, development, products, TheBlissfulEntrepreneur]
 ---
-# Android, AOSP, and what Open-Source Licensing means for you or your company
 
 Android is one of the most popular operating systems in the world, powering billions of devices. It is based on the Android Open Source Project (AOSP), which is a free and open-source software platform. AOSP is important because it allows anyone to modify and redistribute the software, which has led to a wide variety of Android devices and applications.
 
