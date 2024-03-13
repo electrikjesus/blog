@@ -10,9 +10,6 @@ tags: [startup, business, aosp, android, entrepreneurship, development, products
 
 
 
-# Bass OS - when the bass drops, the music gets better
-
-
 ## Project Background
 
 About a year ago, I was contacted by a number of companies that wanted their own Android for PC OS that they could control the access and redistribution rights to. So I started on a journey putting together a new form of Bliss OS for the same kind of devices but done a little differently in order to target businesses, and product use, but was put together in a way that would allow me to retain rights to the parts that apply to all devices (the generic bits). When I first got started, the goal was to make one source have as many features as possible without the use of proprietary components like Google Play Store, Widevine, etc., and then just enable/disable various features and options for specific use cases. Around April of 2023, that goal was achieved and I had a solid starting point for the source that opened up many of the tiny little changes required for device and application specific use, and brought it all together with a single build toolkit. This at least set the stage for the bare minimum needs, and shed light on the future challenges for the project.
