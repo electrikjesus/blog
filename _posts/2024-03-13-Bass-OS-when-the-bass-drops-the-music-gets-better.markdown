@@ -45,7 +45,7 @@ Taking this approach will still allow us to provide companies, hobbyists, and in
 
 Now we can get to the exciting part of this post, the source code. You can find the source at the following link: [https://github.com/Bliss-Bass/bass-os](https://github.com/Bliss-Bass/bass-os) but please pay close attention to the readme for that repo, as it contains all the required information to get things up and rolling. Including dependencies, hardware requirements, resource links and more.
 
-I plan on creating addon guides & templates, contributing guides, and linking the various feature guides we have on Bliss OS docs that they have adopted for some of their builds. This should allow the community everything they need to build off our open-source offerings and set their own terms for licensing their creations if they choose to do so
+I plan on creating addon guides & templates, contributing guides, and linking the various feature guides we have on Bliss OS docs that they have adopted for some of their builds. This should allow the community everything they need to build off our open-source offerings and set their own terms for licensing their creations if they choose to do so.
 
 
 ## Gratitude
